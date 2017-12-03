@@ -135,7 +135,7 @@ nav a:first-child {
 
 h3,
 .sidebar h2 {
-    bottom-border: 2px solid #eee;
+    border-bottom: 2px solid #eee;
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
